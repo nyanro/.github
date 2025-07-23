@@ -20,7 +20,7 @@ We’re in early development. Join our waitlist at [nyanro.space](https://nyanro
 ## 💌 Get Involved
 
 Interested in helping out, offering feedback, or joining as a creator?  
-Reach out at: `jun00c@nyanro.space` or join our upcoming Discord *(coming soon!)*.
+Reach out at: `jun00c@nyanro.space` or join our upcoming [discord server](https://discord.gg/KMYc79rUCx).
 
 ---
 
