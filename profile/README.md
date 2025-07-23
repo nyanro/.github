@@ -20,7 +20,7 @@ We’re in early development. Join our waitlist at [nyanro.netlify.app](https://
 ## 💌 Get Involved
 
 Interested in helping out, offering feedback, or joining as a creator?  
-Reach out at: `hello@nyanro.com` *(placeholder)* or join our upcoming Discord.
+Reach out at: `jun18shadow@gmail.com` *(placeholder until we get the official domain!)* or join our upcoming Discord *(also coming soon XD)*.
 
 ---
 
