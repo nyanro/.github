@@ -15,12 +15,12 @@ Nyanro is an early-stage project focused on:
 
 ## 🚧 Status
 
-We’re in early development. Join our waitlist at [nyanro.netlify.app](https://https://nyanro.netlify.app/) *(real domain coming soon!)* or follow the journey.
+We’re in early development. Join our waitlist at [nyanro.space](https://nyanro.space/) or follow the journey.
 
 ## 💌 Get Involved
 
 Interested in helping out, offering feedback, or joining as a creator?  
-Reach out at: `jun18shadow@gmail.com` *(placeholder until we get the official domain!)* or join our upcoming Discord *(also coming soon XD)*.
+Reach out at: `jun00c@nyanro.space` or join our upcoming Discord *(coming soon!)*.
 
 ---
 
