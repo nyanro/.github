@@ -15,7 +15,7 @@ Nyanro is an early-stage project focused on:
 
 ## 🚧 Status
 
-We’re in early development. Join our waitlist at [nyanro.netlify.app](https://https://nyanro.netlify.app/) *(coming soon!)* or follow the journey.
+We’re in early development. Join our waitlist at [nyanro.netlify.app](https://https://nyanro.netlify.app/) *(real domain coming soon!)* or follow the journey.
 
 ## 💌 Get Involved
 
